@@ -1,0 +1,2 @@
+product:name , image , price ,description
+users:username , email ,password
