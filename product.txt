@@ -1,2 +1,2 @@
-product:name , image , price ,description
+product:name , price ,description , image
 users:username , email ,password
